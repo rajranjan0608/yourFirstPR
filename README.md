@@ -1,5 +1,9 @@
 # Make your 1st Pull Request
-Here, you can learn, test and play with Github by forking and making pull request. Just make any PR and see how it works. View any tutorials of Git and Github beforehand to make a PR.
+Here, you can learn, test and play with Github by forking and making pull request. Just make any PR and see how it works. View any tutorials of Git and Github beforehand to make a PR. Here are few videos which you should watch:
+
+a) To create and setup a repository using CLI: https://youtu.be/ChO6bgkDuSY
+
+b) To make your 1st Pull Request using CLI: https://youtu.be/nWLx59jBIMw
 
 # Steps to make a PR
 i) Fork this repository by clicking on Fork Button above.
