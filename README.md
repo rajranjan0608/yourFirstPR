@@ -3,18 +3,27 @@ Here, you can learn, test and play with Github by forking and making pull reques
 
 # Steps to make a PR
 i) Fork this repository by clicking on Fork Button above.
+
 ii) Now open terminal in Linux or Git Bash in Windows
+
 iii) Type the following commands (do not include # in your command !):
     
       # git clone https://github.com/<your_github_username>/yourFirstPR
+      
       # cd yourFirstPR
-        [Now make changes in the above cloned repository. And after making changes follow the below commands]
+      
+        (Now make changes in the above cloned repository. And after making changes follow the below commands)
+        
       # git add <changed_File_or_Folder_Names>
+      
       # git commit -m "Commit Message"
+      
       # git push
+      
         (Now enter your username and password if asked)
       
 iv) Now go to https://github.com and visit your forked "yourFirstPR" repository.
+
 v) Here, just above the Codes you will see a "Create Pull Request" button. This would make a PR to the original repository i.e. rajranjan0608/yourFirstPR. Follow the onscreen instructions to make a successful PR.
 
 # Important NOTE
