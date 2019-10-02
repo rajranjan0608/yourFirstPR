@@ -28,9 +28,9 @@ v) Here, just above the Codes you will see a "Create Pull Request" button. This 
 
 # Important NOTE
 i) If you want us to merge the PR, then you must name your file according to the following structure:
-   <username><questionNumber><fileEXtenstion>
+   username.questionNumber.fileEXtenstion
   For example, if the username is "johndoe" and question number is Q3 with file extension of .c then the file name to be commited must be:
-  johndoeQ1.c
+  johndoe.Q1.c
 
 # What PR's to make ?
 Below are few questions you could try and commit to this repostiory, by making a PR. Please try to use CLI for making a PR.
