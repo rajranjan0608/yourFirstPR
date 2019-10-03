@@ -37,6 +37,8 @@ i) If you want us to merge the PR, then you must name your file according to the
   johndoe.Q1.c
 ii) Take a screenshort of your program from your local computer. Drag and drop it in description at the time of creating pull request in GUI(Graphical User Interface). 
 
+iii)Solve at least four question to qualify for "Hacktoberfest" swags.
+
 # What PR's to make ?
 Below are few questions you could try and commit to this repostiory, by making a PR. Please try to use CLI for making a PR.
 
