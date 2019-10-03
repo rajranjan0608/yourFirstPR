@@ -35,6 +35,7 @@ i) If you want us to merge the PR, then you must name your file according to the
    username.questionNumber.fileEXtenstion
   For example, if the username is "johndoe" and question number is Q3 with file extension of .c then the file name to be commited must be:
   johndoe.Q1.c
+
 ii) Take a screenshort of your program from your local computer. Drag and drop it in description at the time of creating pull request in GUI(Graphical User Interface). 
 
 iii)Solve at least four question to qualify for "Hacktoberfest" swags.
