@@ -59,8 +59,11 @@ i) If you want us to merge the PR, then you must name your file according to the
 ii) Take a screenshot of your program's output from your local computer. Drag and drop it in the description at the time of creating a pull request in GUI(Graphical User Interface). 
 
 
+iii) Do not commit output files of the program. Output files are of format like .exe and .out etc. 
 
-iii)Solve at least four questions to qualify for "Hacktoberfest" swags.
+
+
+iii)Solve at least four questions to qualify for "Hacktoberfest2019" swags.
 
 
 
