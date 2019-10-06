@@ -56,7 +56,7 @@ i) If you want us to merge the PR, then you must name your file according to the
 
 
 
-ii) Take a screenshot of your program from your local computer. Drag and drop it in the description at the time of creating a pull request in GUI(Graphical User Interface). 
+ii) Take a screenshot of your program's output from your local computer. Drag and drop it in the description at the time of creating a pull request in GUI(Graphical User Interface). 
 
 
 
