@@ -115,3 +115,6 @@ Q9)Write a program to find odd numbers between two numbers(excluding). These two
 
 Q10)Write a C program to generate 5 random numbers between [1, 100](using rand built-in function).
 
+Q11)Write a program for adding two number without using plus(+).
+
+
