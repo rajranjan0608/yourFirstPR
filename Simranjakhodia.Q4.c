@@ -1,19 +1,21 @@
 #include<stdio.h>
+int m;
 int main()
 {
-int  i,m=0;
-int a[10];
-for(i=0;i<10;i++)
+int  i,a;
+for(i=1;i<=10;i++)
 {
 printf("Enter a no. ");
-scanf("%d",&a[i]);
-}
-m=a[0];
-for(i=0;i<10;i++)
-{
-if(a[i]>m)
-m=a[i];
+scanf("%d",&a);
+if(i==0)
+m=a; 
+max(a);  
 }
 printf("Maximum among the 10 nos. is %d ",m);
 return 0;
 }
+max(int a)
+{
+if(a>m)
+m=a;
+}  
