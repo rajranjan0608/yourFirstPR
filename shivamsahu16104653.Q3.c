@@ -5,11 +5,11 @@
   scanf("%d",&n);
 
         for(i=2;i<n;i++)
-       if(n%i!=0)
+       {  if(n%i!=0)
         flage=1;
         else
          {printf("Number is not Prime ");flage=0;
-        break;}
+        break;}}
         if(flage==1||n==2)
          printf("Number is Prime ");
         if(n==1)
