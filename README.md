@@ -117,4 +117,4 @@ Q10)Write a C program to generate 5 random numbers between [1, 100](using rand b
 
 Q11)Write a program for adding two number without using plus(+).
 
-
+Q12)Write a program to calculate the sum of the digit of given number(input given by user).
