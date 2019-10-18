@@ -120,3 +120,5 @@ Q11)Write a program for adding two number without using plus(+).
 Q12)Write a program to calculate the sum of the digit of given number(input given by user).
 
 Q13)Write a program to print the first 10 numbers of fibonacci series using recursion.
+
+Q14)Write a program to print the solution of The Tower of Hanoi problem in form of transitions.
