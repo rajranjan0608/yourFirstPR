@@ -4,13 +4,11 @@ Here, you can learn, test and play with Github by forking and making pull reques
 
 
 
-a) To create and setup a repository using CLI: https://youtu.be/ChO6bgkDuSY
+a) To create and setup a repository using CLI: 
+[![Demo Video](https://j.gifs.com/ZYgYM6.gif)](https://youtu.be/ChO6bgkDuSY)
 
-
-
-b) To make your 1st Pull Request using CLI: https://youtu.be/nWLx59jBIMw
-
-
+b) To make your 1st Pull Request using CLI:
+[![Demo Video](https://j.gifs.com/gZyZo9.gif)](https://youtu.be/nWLx59jBIMw)
 
 # Steps to make a PR
 
