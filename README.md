@@ -4,13 +4,11 @@ Here, you can learn, test and play with Github by forking and making pull reques
 
 
 
-a) To create and setup a repository using CLI: https://youtu.be/ChO6bgkDuSY
+a) To create and setup a repository using CLI: 
+[![Demo Video](https://j.gifs.com/ZYgYM6.gif)](https://youtu.be/ChO6bgkDuSY)
 
-
-
-b) To make your 1st Pull Request using CLI: https://youtu.be/nWLx59jBIMw
-
-
+b) To make your 1st Pull Request using CLI:
+[![Demo Video](https://j.gifs.com/gZyZo9.gif)](https://youtu.be/nWLx59jBIMw)
 
 # Steps to make a PR
 
@@ -117,4 +115,8 @@ Q10)Write a C program to generate 5 random numbers between [1, 100](using rand b
 
 Q11)Write a program for adding two number without using plus(+).
 
+Q12)Write a program to calculate the sum of the digit of given number(input given by user).
 
+Q13)Write a program to print the first 10 numbers of fibonacci series using recursion.
+
+Q14)Write a program to print the solution of The Tower of Hanoi problem in form of transitions.
