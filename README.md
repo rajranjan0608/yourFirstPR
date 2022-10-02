@@ -120,3 +120,5 @@ Q12)Write a program to calculate the sum of the digit of given number(input give
 Q13)Write a program to print the first 10 numbers of fibonacci series using recursion.
 
 Q14)Write a program to print the solution of The Tower of Hanoi problem in form of transitions.
+
+Q15)Create a diamond figure with stars
